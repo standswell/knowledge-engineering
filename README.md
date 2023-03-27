@@ -1,8 +1,12 @@
-# knowledge-engineering
-Project to investigate tools and techniques to support knowledge engineering to enable human/computer interaction.
+<h1>Knowledge Engineering</h1>
 
-The aim of this project is to explore the potential business benefits of a knowledge engineering capability combining a range of technologies and approaches including:
-  Knowledge Representation and Ontology Science to define an Enterprise Knowledge Graph
-  Web technologies such as web scraping
-  Content processing using NLP and Generative AI technologies 
-  
+<p>This is a project aimed at investigating tools and techniques that can support knowledge engineering, ultimately enabling human/computer interaction.</p>
+
+<p>The project seeks to explore potential business benefits that can be derived from a knowledge engineering capability that combines a range of technologies and approaches, including:</p>
+
+<ul>
+  <li>Knowledge Representation and Ontology Science for defining an Enterprise Knowledge Graph</li>
+  <li>Web technologies like web scraping</li>
+  <li>Content processing through the use of NLP and Generative AI technologies.</li>
+</ul>
+
